@@ -1,0 +1,2 @@
+c:\users\anthony\documents\visual studio 2015\Projects\WebApplication8\src\WebApplication8\wwwroot\file.js
+c:\users\anthony\documents\visual studio 2015\Projects\WebApplication8\src\WebApplication8\wwwroot\file.js.map
